@@ -1,4 +1,4 @@
-# WriteCreative.AI
+# 🔮WriteCreative.AI🤖
 
 ## ✨ Creative Writing Assistant
 
