@@ -1,6 +1,6 @@
 # 🔮WriteCreative.Ai🤖
 
-Hey there! 🎉 I'm thrilled to present my latest project, **Creative Writing Assistant**! This tool is designed to be your ultimate companion for crafting stories, poems, characters, and scripts. Combining advanced AI and a sleek interface, it’s here to make your writing process smooth and inspiring. Let's dive into what this project is all about and how you can get started!
+Hey there! 🎉 I'm thrilled to present my latest project, **WriteCreative.Ai**! This tool is designed to be your ultimate companion for crafting stories, poems, characters, and scripts. Combining advanced AI and a sleek interface, it’s here to make your writing process smooth and inspiring. Let's dive into what this project is all about and how you can get started!
 
 ## 🚀 Overview
 
